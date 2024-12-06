@@ -67,7 +67,7 @@ export default function NewPost() {
     };
 
     return (
-        <div>
+        <div className='min-h-screen flex flex-col justify-center items-center'>
             {/* Sección del Formulario */}
             <div className="py-7 px-5 w-[300px] md:w-[600px] xl:w-[750px] bg-slate-700 bg-opacity-80 rounded-xl">
                 <div className="flex items-center pb-5 select-none gap-3">

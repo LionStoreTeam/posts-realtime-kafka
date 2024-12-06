@@ -12,7 +12,7 @@ import UserImageProfile from "./UserImageProfile";
 
 
 const links = [
-    { id: 1, url: "/", title: "Inicio", },
+    { id: 1, url: "/new", title: "Inicio", },
     { id: 2, url: "/posts", title: "All Posts", },
 ];
 
